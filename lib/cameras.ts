@@ -33,7 +33,7 @@ export const cameras: Camera[] = [
     location: "Tóquio",
     country: "Japão",
     embedUrl: "https://www.youtube.com/embed/cMqHDMBGsvk?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1540959375944-7049f642e9a4?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1280&h=720&fit=crop",
     description: "O cruzamento mais movimentado do mundo, no coração de Tóquio.",
   },
   {
@@ -51,7 +51,7 @@ export const cameras: Camera[] = [
     location: "Rio de Janeiro",
     country: "Brasil",
     embedUrl: "https://www.youtube.com/embed/0pEB8RJKZQM?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1483729558449-99daa64c3104?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
     description: "Uma das maravilhas do mundo moderno, de braços abertos sobre a Cidade Maravilhosa.",
   },
   {
@@ -60,7 +60,7 @@ export const cameras: Camera[] = [
     location: "Veneza",
     country: "Itália",
     embedUrl: "https://www.youtube.com/embed/dGXSBFqJDpQ?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1514890547357-a9db7a547e59?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1280&h=720&fit=crop",
     description: "A praça mais famosa de Veneza, cercada por arquitetura gótica e byzantine.",
   },
   {
@@ -78,7 +78,7 @@ export const cameras: Camera[] = [
     location: "Nova York",
     country: "EUA",
     embedUrl: "https://www.youtube.com/embed/LFIuMeVXBJA?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1518235506717-e1ed3306a326?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1280&h=720&fit=crop",
     description: "O símbolo da liberdade americana, presente na entrada do porto de Nova York.",
   },
   {
@@ -87,7 +87,7 @@ export const cameras: Camera[] = [
     location: "Roma",
     country: "Itália",
     embedUrl: "https://www.youtube.com/embed/SBCw4_XgouA?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1552832860-cfb67165eaf0?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
     description: "O maior anfiteatro da Antiguidade, no coração de Roma.",
   },
   {
@@ -96,7 +96,7 @@ export const cameras: Camera[] = [
     location: "Niágara",
     country: "EUA/Canadá",
     embedUrl: "https://www.youtube.com/embed/8aqBJSVkMwI?autoplay=1&mute=1",
-    thumbnail: "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1280&h=720&fit=crop",
+    thumbnail: "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
     description: "Uma das maiores cataratas do mundo, na fronteira entre EUA e Canadá.",
   },
 ];

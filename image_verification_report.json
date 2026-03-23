@@ -1,0 +1,87 @@
+{
+  "total": 10,
+  "working": 10,
+  "broken": 0,
+  "cameras": [
+    {
+      "id": "times-square",
+      "name": "Times Square",
+      "url": "https://img.youtube.com/vi/1EiC9bvVGnk/maxresdefault.jpg",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "santorini",
+      "name": "Santorini",
+      "url": "https://images.unsplash.com/photo-1613395877344-13d4a8e0d49e?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "shibuya",
+      "name": "Shibuya Crossing",
+      "url": "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "eiffel",
+      "name": "Torre Eiffel",
+      "url": "https://images.unsplash.com/photo-1502602898657-3e91760cbb34?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "cristo-redentor",
+      "name": "Cristo Redentor",
+      "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "san-marco",
+      "name": "Piazza San Marco",
+      "url": "https://images.unsplash.com/photo-1514565131-fce0801e5785?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "big-ben",
+      "name": "Big Ben",
+      "url": "https://images.unsplash.com/photo-1513635269975-59663e0ac1ad?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "statue-liberty",
+      "name": "Estátua da Liberdade",
+      "url": "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "colosseum",
+      "name": "Coliseu",
+      "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    },
+    {
+      "id": "niagara",
+      "name": "Cataratas do Niágara",
+      "url": "https://images.unsplash.com/photo-1506905925346-21bda4d32df4?w=1280&h=720&fit=crop",
+      "status": "OK",
+      "message": "OK - Imagem válida",
+      "status_code": 200
+    }
+  ]
+}

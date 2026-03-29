@@ -8,6 +8,8 @@ export interface Camera {
   description: string;
 }
 
+// URLs gerenciadas automaticamente pelo sistema de gestão de câmeras
+// Veja lib/camera-manager.ts para detalhes
 export const cameras: Camera[] = [
   {
     id: "times-square",

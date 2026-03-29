@@ -2,8 +2,8 @@
 
 import { useState, useEffect } from "react";
 import Link from "next/link";
-import Image from "next/image";
 import { cameras } from "@/lib/cameras";
+import CameraImage from "@/components/CameraImage";
 
 export default function Home() {
   const [favorites, setFavorites] = useState<string[]>([]);
@@ -111,12 +111,15 @@ export default function Home() {
             >
               {/* Thumbnail */}
               <Link href={`/camera/${camera.id}`} className="block relative aspect-video">
-                <Image
-                  src={camera.thumbnail}
-                  alt={camera.name}
-                  fill
-                  className="object-cover group-hover:scale-105 transition-transform duration-300"
-                  unoptimized
+                <CameraImage
+                  cameraId={camera.id}
+                  cameraName={camera.name}
+                  primaryUrl={camera.thumbnail}
+                  fallbackUrls={[
+                    "https://images.unsplash.com/photo-1493246507139-91e8fad9978e?w=1280&h=720&fit=crop",
+                    "https://images.unsplash.com/photo-1469854523086-cc02fe5d8800?w=1280&h=720&fit=crop",
+                  ]}
+                  className="group-hover:scale-105 transition-transform duration-300"
                 />
                 <div className="absolute inset-0 bg-gradient-to-t from-black/60 to-transparent" />
                 <div className="absolute top-2 left-2 bg-red-600 text-white text-xs font-bold px-2 py-0.5 rounded-full flex items-center gap-1">
